@@ -1,0 +1,17 @@
+.conter{
+  display: inline-flex;
+}
+
+
+
+.searchbar {
+	position: relative;
+	right: 99%;
+	margin-top: 10px;
+}
+
+.othernames {
+	position: relative;
+	right: 50%;
+}
+

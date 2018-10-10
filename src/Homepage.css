@@ -1,0 +1,34 @@
+.container-text{
+  	margin-top: 100px;
+} 
+.container{ 
+	background-color: 'white'; 
+} 
+
+.articleDisplay{  
+	display: inline-flex; 
+	padding: 10px;
+	
+} 
+
+.subNavDisplay{  
+	display: flex; 
+	margin-top: 55px; 
+	background-color: #777777;
+}
+
+.conter{
+  display: inline-flex;
+}
+
+.searchbar {
+	position: relative;
+	right: 99%;
+	margin-top: 10px;
+}
+
+.othernames {
+	position: relative;
+	right: 50%;
+}
+

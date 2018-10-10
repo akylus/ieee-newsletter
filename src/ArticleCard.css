@@ -1,0 +1,8 @@
+.ArticleStyle{   
+	display: inline-flex;
+	flex-direction: row;
+	float: left;
+	margin: 20px; 
+	width: 30%; 
+	margin-top: 100px;
+ } 

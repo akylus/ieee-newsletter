@@ -1,0 +1,38 @@
+<div className="App" class="body">
+              <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+                <div class="container">
+                  <span class="navbar-brand mb-0 h1">IEEE - VBIT SB Newsletter</span>
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div  id="push"></div>
+                  <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav mr-auto pull-right">
+                      <li class="nav-item active">
+                        <a class="nav-link" href="#">Login<span class="sr-only">(current)</span></a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+
+
+
+
+          <div class="container">
+            <div class="container-text">
+              <h1 class="central">Welcome, fellow students!</h1>
+              <h3 class="central">Many articles are ready waiting for you!</h3>
+              <div><br></br></div>
+              <div><br></br></div>
+              <button class="central" type="button" class="btn btn-outline-dark"><Link to="/Home.js">Lets Get Started!</Link></button>
+              <img src="logo" alt="logo" width="200" height="200" id="hp"></img>
+            </div>
+          </div>
+      </div>
